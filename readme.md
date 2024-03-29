@@ -76,7 +76,7 @@ For detailed code and instructions on training the model, refer to the documenta
 
 To evaluate the model's performance, use a separate testing dataset. Common evaluation metrics for binary classification tasks like this one include accuracy, precision,mean squared error. These metrics provide insights into the model's ability to correctly classify benign and malignant cells.
 
-##Deployment
+## Deployment
 
 Deploying the model for real-world use involves integrating it into a production environment. This can be done through various methods, including web applications, APIs, or mobile applications. Ensure that the model is accessible and can provide predictions on new cell samples efficiently.
 
